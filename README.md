@@ -55,4 +55,4 @@ MERN stack · Stripe payments · Google OAuth · real-time seat selection
 **Indiana University Bloomington** — M.S. CS · GPA 3.88 · May 2026  
 **I2IT Pune** — B.E. Computer Engineering (Honors AI/ML) · GPA 9.08/10 · 2024
 
- 🔍 *Actively seeking full-time Software Engineering roles — Summer/Fall 2026*
+ 🔍 *Actively seeking full-time Software Engineering roles *
