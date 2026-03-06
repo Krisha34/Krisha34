@@ -33,13 +33,13 @@ I enjoy working across the stack — designing REST APIs, building scalable micr
 
 ## 🚀 Featured Projects
 
-**[Cloud-Native Microservices Platform]**  
+**Cloud-Native Microservices Platform**  
 Spring Boot · Docker · Azure Kubernetes Service · CI/CD — reduced deployment time by **80%**
 
-**[BluePeak Scout — AI Market Intelligence]**  
+**BluePeak Scout — AI Market Intelligence**  
 Next.js · FastAPI · RAG pipeline · LangChain ·  — saved ~10 hrs/week of manual research
 
-**[HermesPass — Event Booking Portal]**  
+**HermesPass — Event Booking Portal**  
 MERN stack · Stripe payments · Google OAuth · real-time seat selection
 
 ---
