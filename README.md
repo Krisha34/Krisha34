@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Krisha Elle 👋
 
-<!--
-**Krisha34/Krisha34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer**  
+📍 Bloomington, IN · 📫 krisharelle@gmail.com · [LinkedIn](https://www.linkedin.com/in/krisha-elle-503203215/) · [Portfolio](https://krisha34.github.io/krisha-portfolio/)
 
-Here are some ideas to get you started:
+M.S. Computer Science @ Indiana University Bloomington (GPA 3.88)  
+Currently building full-stack analytics tools @ **Project 990** · Teaching Python & Arduino @ **IU Luddy School**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the stack — designing REST APIs, building scalable microservices, deploying to AWS/Azure, and integrating AI capabilities into real products.
+
+
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+🐍 Python · ☕ Java · 🌐 JavaScript  · ⚙️ C++ · 🗄 SQL
+
+**Frontend & Backend**  
+⚛️ React  · 🍃 Node.js · 🌱 Spring Boot
+
+**AI / ML**  
+🤖 LangChain · 🧠 OpenAI · 🔍 RAG · 📊 Scikit-learn · 🔥 TensorFlow
+
+**Cloud & DevOps**  
+☁️ AWS · 🔵 Azure · 🐳 Docker · ☸️ Kubernetes · ⚡ GitHub Actions
+
+**Databases**  
+🐘 PostgreSQL · 🍃 MongoDB 
+
+---
+
+## 🚀 Featured Projects
+
+**[Cloud-Native Microservices Platform](#)**  
+Spring Boot · Docker · Azure Kubernetes Service · CI/CD — reduced deployment time by **80%**
+
+**[BluePeak Scout — AI Market Intelligence](#)**  
+Next.js · FastAPI · RAG pipeline · LangChain ·  — saved ~10 hrs/week of manual research
+
+**[HermesPass — Event Booking Portal](#)**  
+MERN stack · Stripe payments · Google OAuth · real-time seat selection
+
+---
+
+## Research & Teaching
+
+- 📄 **IEEE 2024** — Sentiment Analysis across Modalities: Text and Audio Approaches
+- 👩‍🏫 **Associate Instructor** — CSCI-C102: Great Ideas in Computing, IU Luddy School (30+ students)
+---
+
+## 🎓 Education
+
+**Indiana University Bloomington** — M.S. CS · GPA 3.88 · May 2026  
+**I2IT Pune** — B.E. Computer Engineering (Honors AI/ML) · GPA 9.08/10 · 2024
+
+ 🔍 *Actively seeking full-time Software Engineering roles — Summer/Fall 2026*
