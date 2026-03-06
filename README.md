@@ -1,7 +1,7 @@
 # Hi, I'm Krisha Elle 👋
 
 **Software Engineer**  
-📍 Bloomington, IN · 📫 krisharelle@gmail.com · [LinkedIn](https://www.linkedin.com/in/krisha-elle-503203215/) · [Portfolio](https://krisha34.github.io/krisha-portfolio/)
+📫 krisharelle@gmail.com · [LinkedIn](https://www.linkedin.com/in/krisha-elle-503203215/) · [Portfolio](https://krisha34.github.io/krisha-portfolio/)
 
 M.S. Computer Science @ Indiana University Bloomington (GPA 3.88)  
 Currently building full-stack analytics tools @ **Project 990** · Teaching Python & Arduino @ **IU Luddy School**
@@ -46,7 +46,7 @@ MERN stack · Stripe payments · Google OAuth · real-time seat selection
 
 ## Research & Teaching
 
-- 📄 **IEEE 2024** — Sentiment Analysis across Modalities: Text and Audio Approaches
+- 📄 **IEEE 2024** — Sentiment Analysis across Modalities: Text and Audio Approaches, Exploring Dual-Module Approaches for Sentiment Analysis in Call Recordings
 - 👩‍🏫 **Associate Instructor** — CSCI-C102: Great Ideas in Computing, IU Luddy School (30+ students)
 ---
 
