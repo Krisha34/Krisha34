@@ -4,7 +4,7 @@
 📫 krisharelle@gmail.com · [LinkedIn](https://www.linkedin.com/in/krisha-elle-503203215/) · [Portfolio](https://krisha34.github.io/krisha-portfolio/)
 
 M.S. Computer Science @ Indiana University Bloomington (GPA 3.88)  
-Currently building full-stack analytics tools @ **Project 990** · Teaching Python & Arduino @ **IU Luddy School**
+Currently building full-stack analytics tools @ **Project 990** · Teaching Python & Arduino @ **IU Luddy School** · Research @ **IU O'Neill School**
 
 I enjoy working across the stack — designing REST APIs, building scalable microservices, deploying to AWS/Azure, and integrating AI capabilities into real products.
 
