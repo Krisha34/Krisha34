@@ -15,19 +15,19 @@ I enjoy working across the stack — designing REST APIs, building scalable micr
 ## 🛠 Tech Stack
 
 **Languages**  
-🐍 Python · ☕ Java · 🌐 JavaScript  · ⚙️ C++ · 🗄 SQL
+🐍 Python · 🌐 JavaScript  · ⚙️ C++ · 🗄 SQL
 
 **Frontend & Backend**  
-⚛️ React  · 🍃 Node.js · 🌱 Spring Boot
+⚛️ React  · 🍃 Node.js · 
 
 **AI / ML**  
 🤖 LangChain · 🧠 OpenAI · 🔍 RAG · 📊 Scikit-learn · 🔥 TensorFlow
 
 **Cloud & DevOps**  
-☁️ AWS · 🔵 Azure · 🐳 Docker · ☸️ Kubernetes · ⚡ GitHub Actions
+ 🔵 Azure · 🐳 Docker ·  ⚡ GitHub Actions
 
 **Databases**  
-🐘 PostgreSQL · 🍃 MongoDB 
+🐘 SQL · 🍃 MongoDB 
 
 ---
 
