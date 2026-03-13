@@ -21,7 +21,7 @@ I enjoy working across the stack — designing REST APIs, building scalable micr
 ⚛️ React  · 🍃 Node.js · 
 
 **AI / ML**  
-🤖 LangChain · 🧠 OpenAI · 🔍 RAG · 📊 Scikit-learn · 🔥 TensorFlow
+🤖NLP· 📊 Scikit-learn · 🔥 TensorFlow
 
 **Cloud & DevOps**  
  🔵 Azure · 🐳 Docker ·  ⚡ GitHub Actions
