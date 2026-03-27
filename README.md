@@ -40,7 +40,7 @@ Spring Boot · Docker · Azure Kubernetes Service · CI/CD — reduced deploymen
 Next.js · FastAPI · RAG pipeline · LangChain ·  — saved ~10 hrs/week of manual research
 
 **HermesPass — Event Booking Portal**  
-MERN stack · Stripe payments · Google OAuth · real-time seat selection
+MERN stack · Stripe payments · Google OAuth · Seat selection
 
 ---
 
